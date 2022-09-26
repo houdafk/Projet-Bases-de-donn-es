@@ -1,0 +1,2 @@
+# Projet-Bases-de-donn-es
+Une agence de voyage anglaise souhaite numériser son système d’information et vient nous consulter pour faire cela. Nous avons accès au cahier des charges du projet, ainsi qu’à des extraits d’interviews « brutes ». Le client compartimente ses processus métiers en plusieurs catégories : • Gestion des clients • Gestion du personnel • Gestion de la billetterie • Gestion des moyens de transports • Gestion des points d’étapes • Gestion des statistiques 
